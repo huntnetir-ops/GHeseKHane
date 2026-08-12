@@ -1,0 +1,6 @@
+{
+  "name": "QessehKhaneh - قصهخانه",
+  "description": "اپلیکیشن آفلاین، تعاملی و داستانی کودکان همراه با قصههای شب، آموزش مهارتهای زندگی، شخصیت دانا و دنیای بزرگ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
